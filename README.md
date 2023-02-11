@@ -1,6 +1,6 @@
 ```
 
-AIRBNB CLONE
+AirBnB clone
 
 ```
 
